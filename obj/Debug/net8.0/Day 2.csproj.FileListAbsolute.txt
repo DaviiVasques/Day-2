@@ -1,0 +1,14 @@
+/home/davi/Área de Trabalho/Exercicios/Escapsulamento/Day 2/bin/Debug/net8.0/Day 2
+/home/davi/Área de Trabalho/Exercicios/Escapsulamento/Day 2/bin/Debug/net8.0/Day 2.deps.json
+/home/davi/Área de Trabalho/Exercicios/Escapsulamento/Day 2/bin/Debug/net8.0/Day 2.runtimeconfig.json
+/home/davi/Área de Trabalho/Exercicios/Escapsulamento/Day 2/bin/Debug/net8.0/Day 2.dll
+/home/davi/Área de Trabalho/Exercicios/Escapsulamento/Day 2/bin/Debug/net8.0/Day 2.pdb
+/home/davi/Área de Trabalho/Exercicios/Escapsulamento/Day 2/obj/Debug/net8.0/Day 2.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/Área de Trabalho/Exercicios/Escapsulamento/Day 2/obj/Debug/net8.0/Day 2.AssemblyInfoInputs.cache
+/home/davi/Área de Trabalho/Exercicios/Escapsulamento/Day 2/obj/Debug/net8.0/Day 2.AssemblyInfo.cs
+/home/davi/Área de Trabalho/Exercicios/Escapsulamento/Day 2/obj/Debug/net8.0/Day 2.csproj.CoreCompileInputs.cache
+/home/davi/Área de Trabalho/Exercicios/Escapsulamento/Day 2/obj/Debug/net8.0/Day 2.dll
+/home/davi/Área de Trabalho/Exercicios/Escapsulamento/Day 2/obj/Debug/net8.0/refint/Day 2.dll
+/home/davi/Área de Trabalho/Exercicios/Escapsulamento/Day 2/obj/Debug/net8.0/Day 2.pdb
+/home/davi/Área de Trabalho/Exercicios/Escapsulamento/Day 2/obj/Debug/net8.0/Day 2.genruntimeconfig.cache
+/home/davi/Área de Trabalho/Exercicios/Escapsulamento/Day 2/obj/Debug/net8.0/ref/Day 2.dll
